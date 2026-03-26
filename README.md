@@ -2,9 +2,6 @@
 
 Dieses Projekt umfasst die Entwicklung und Programmierung eines ferngesteuerten Fahrzeugs (RC Car), das über eine Smartphone-App gesteuert wird. Es wurde im Rahmen eines Universitätsprojekts realisiert und kombiniert eingebettete Programmierung mit mechanischen Komponenten wie einem Ball-Launcher.
 
-![PHOTO-2025-01-24-00-31-14](https://github.com/user-attachments/assets/cb6a238c-3661-4a3d-b2f9-595cfe6df073)
-
-
 ## 🚀 Features
 - **Smartphone-Steuerung:** Vollständige Kontrolle über Fahrtrichtung und Geschwindigkeit mittels der **RemoteXY** App.
 - **Ball-Launcher:** Integrierter Mechanismus zum Abschießen von Bällen, gesteuert über die App-Oberfläche.
@@ -33,3 +30,5 @@ Dieses Projekt umfasst die Entwicklung und Programmierung eines ferngesteuerten 
 
 ## 🎓 Hintergrund
 Das Projekt wurde entwickelt, um die Grundlagen von **Embedded Systems** und **Robotik** praktisch anzuwenden. Ein besonderer Fokus lag dabei auf der effizienten Steuerung von Aktoren durch Sensordaten (oder in diesem Fall App-Eingaben).
+
+![PHOTO-2025-01-24-00-31-14](https://github.com/user-attachments/assets/cb6a238c-3661-4a3d-b2f9-595cfe6df073)
